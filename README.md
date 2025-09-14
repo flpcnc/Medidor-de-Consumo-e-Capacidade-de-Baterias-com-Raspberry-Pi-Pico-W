@@ -5,6 +5,11 @@ Este projeto nasceu da curiosidade (e um pouco de desconfiança) sobre a real ca
 
 ---
 
+![Componentes do Projeto](docs/Componentes.jpg)
+*Componentes principais utilizados no projeto.*
+
+---
+
 ## 📌 O que é?  
 Um sistema baseado em **Raspberry Pi Pico W** capaz de medir, registrar e calcular com precisão a corrente consumida por um dispositivo, monitorando a tensão da bateria e desligando automaticamente a carga quando o limite mínimo é atingido.  
 
@@ -65,8 +70,16 @@ Assim, você descobre a capacidade real (em mAh) da sua bateria — sem achismos
 
 ---
 
+![Aquisição de Dados - Início](docs/DadosConsole.jpg)
+*Exemplo do início da aquisição de dados no console.*
+
+---
+
 ## 📊 Resultados  
 Ao final do teste, você terá um **arquivo CSV** com todos os dados de tensão, corrente e capacidade acumulada (em mAh), pronto para análise no **Excel, Google Sheets ou Python**.  
+
+![Resultado após 4000 segundos](docs/Dados_4000seg.jpg)
+*Exemplo de resultado após 4000 segundos de execução.*
 
 💡 **Divirta-se descobrindo a verdade sobre suas baterias!**  
 
@@ -81,4 +94,4 @@ Neste teste, foi possível medir a capacidade efetivamente entregue pela bateria
 ---
 
 ## 📄 Licença  
-Este projeto está licenciado sob a **MIT License**.  
+Este projeto está licenciado sob a **MIT License**.
