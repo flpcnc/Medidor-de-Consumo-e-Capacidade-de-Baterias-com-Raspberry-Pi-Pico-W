@@ -75,5 +75,10 @@ Se encontrar algo estranho, lembre-se:
 
 ---
 
+## Conclusão
+Neste teste, foi possível medir a capacidade efetivamente entregue pela bateria ao circuito, levando em conta o uso de um conversor step-up para alimentar a carga em 5,35 V. Considerando as perdas do conversor, a capacidade real disponível para o sistema ficou em torno de 1000 mAh para este exemplar, valor significativamente diferente do informado no rótulo. É importante destacar que este resultado se refere apenas à unidade testada, nas condições e configurações utilizadas, podendo variar para outras baterias ou marcas. Recomenda-se sempre realizar medições práticas para validar a real performance de cada bateria em seu próprio contexto de uso.
+
+---
+
 ## 📄 Licença  
 Este projeto está licenciado sob a **MIT License**.  
